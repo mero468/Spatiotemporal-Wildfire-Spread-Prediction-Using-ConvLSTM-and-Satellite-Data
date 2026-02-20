@@ -10,5 +10,7 @@ achieves an Intersection‑over‑Union (IoU) of 0.22 and a recall of 0.91. Alth
 due to extreme class imbalance, the system exceeds the widely accepted 0.20 IoU threshold for operational
 "rapid‑response" usability. We discuss data preprocessing, training strategy, results, limitations, and future
 work—such as multi‑scale attention and synthetic augmentation to improve minority‑class representation.
-Keywords: Wildfire spread prediction; ConvLSTM; Spatiotemporal deep learning; Remote sensing; MODIS
+
+**Keywords: Wildfire spread prediction; ConvLSTM; Spatiotemporal deep learning; Remote sensing; MODIS
 MCD64A1; ERA5 meteorology; Manavgat 2021; Next-day forecasting
+**
